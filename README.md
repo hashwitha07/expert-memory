@@ -1,1 +1,1 @@
-# expert-memory
+# Tic Tac Toe project
